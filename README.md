@@ -1,4 +1,4 @@
-# Movie Genre Classification using Machine Learning
+#  Movie Genre Classification using Machine Learning
 
 ## Objective
 
@@ -77,7 +77,7 @@ The model predicts the genre of a movie based on the entered plot description.
 - Create a Web Application using Flask
 - Deploy the project online
 
-# Screenshots
+##  Screenshots
 
 <img width="602" height="395" alt="image" src="https://github.com/user-attachments/assets/7055ae0e-3946-43f3-bc5a-cdc61c8213ab" />
 
