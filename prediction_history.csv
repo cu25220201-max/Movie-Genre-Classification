@@ -1,0 +1,12 @@
+history = pd.DataFrame({
+    "Movie Plot": [text],
+    "Predicted Genre": [prediction[0]],
+    "Confidence": [round(confidence,2)]
+})
+
+history.to_csv(
+    "prediction_history.csv",
+    mode="a",
+    header=False,
+    index=False
+)
